@@ -1,0 +1,11 @@
+{
+  "aegis_vitals.configuration.title": "Aegis Vitals",
+  "aegis_vitals.configuration.general": "Genel",
+  "aegis_vitals.configuration.hudMode": "HUD Modu",
+  "aegis_vitals.configuration.hudMode.tooltip": "AEGIS_PRIORITY: diğer can/zırh HUD modlarının yerini alır. AUTO: onlara öncelik verir. DISABLED: vanilla HUD.",
+  "aegis_vitals.configuration.showNumericHealth": "Can Sayısını Göster",
+  "aegis_vitals.configuration.showNumericArmor": "Zırh Sayısını Göster",
+  "aegis_vitals.configuration.colorSyncNumericText": "Kademe Renkli Sayılar",
+  "aegis_vitals.configuration.showArmorToughness": "Zırh Dayanıklılığını Göster",
+  "aegis_vitals.configuration.enableTieredArmor": "Kademeli Zırh Çubuğu"
+}

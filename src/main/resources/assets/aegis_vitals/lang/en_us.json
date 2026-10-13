@@ -1,0 +1,11 @@
+{
+  "aegis_vitals.configuration.title": "Aegis Vitals",
+  "aegis_vitals.configuration.general": "General",
+  "aegis_vitals.configuration.hudMode": "HUD Mode",
+  "aegis_vitals.configuration.hudMode.tooltip": "AEGIS_PRIORITY: replaces other health/armor HUD mods. AUTO: yields to them. DISABLED: vanilla HUD.",
+  "aegis_vitals.configuration.showNumericHealth": "Show Health Number",
+  "aegis_vitals.configuration.showNumericArmor": "Show Armor Number",
+  "aegis_vitals.configuration.colorSyncNumericText": "Tier-Colored Numbers",
+  "aegis_vitals.configuration.showArmorToughness": "Show Armor Toughness",
+  "aegis_vitals.configuration.enableTieredArmor": "Tiered Armor Bar"
+}

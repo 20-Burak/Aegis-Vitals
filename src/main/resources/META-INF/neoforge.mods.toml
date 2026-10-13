@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+
+[[mods]]
+modId="aegis_vitals"
+version="1.0.0"
+displayName="Aegis Vitals"
+description='''Single-row, color-tiered health and armor bars. Every 20 points shifts to a new color, so even hundreds of hearts fit in one clean row.'''
+authors="Burak"
+
+[[dependencies.aegis_vitals]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.aegis_vitals]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="CLIENT"

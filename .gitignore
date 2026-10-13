@@ -1,0 +1,44 @@
+# Gradle / build output
+build/
+.gradle/
+out/
+bin/
+*.class
+
+# Dev runs, worlds and logs
+run/
+runs/
+saves/
+logs/
+crash-reports/
+screenshots/
+*.log
+build_log.txt
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Third-party binaries: never publish other people's jars or archives
+libs/
+deps/
+*.jar
+*.zip
+*.bak
+
+# Local scratch / verification helpers (contain machine-specific paths)
+derle.bat
+verify*/
+scratch/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
